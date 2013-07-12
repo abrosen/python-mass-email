@@ -1,4 +1,11 @@
+#!/usr/bin/env python
+"""massmail.py  - A script for for emailing your multiple recipients an individualized message via google."""
+
 import smtplib
+
+__author__  =  "Andrew Rosen"
+__license__ = "GPL"
+
 
 sender = 'reply-to@my-email.com'
 
